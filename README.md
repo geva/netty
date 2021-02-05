@@ -1,4 +1,6 @@
 # Netty Project
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeva%2Fnetty.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgeva%2Fnetty?ref=badge_shield)
+
 
 Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 
@@ -62,3 +64,7 @@ are listed below:
 
 Automatic modules do not provide any means to declare dependencies, so you need to list each used module separately
 in your `module-info` file.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgeva%2Fnetty.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgeva%2Fnetty?ref=badge_large)
